@@ -1,0 +1,1 @@
+Creating pokemon from countries using dalle3, open functions and imagePIL
